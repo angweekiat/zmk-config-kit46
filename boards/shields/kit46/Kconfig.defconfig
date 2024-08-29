@@ -1,0 +1,16 @@
+if SHIELD_KIT46_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Kit46"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_KIT46_LEFT || SHIELD_KIT46_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
