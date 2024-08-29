@@ -10,7 +10,6 @@
 
     matrix_wiring_kscan: matrix_wiring_kscan {
         compatible = "zmk,kscan-gpio-matrix";
-        label = "matrix_wiring_kscan";
         wakeup-source;
         diode-direction = "col2row";
 
