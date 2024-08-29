@@ -26,7 +26,7 @@
             &kp LCTRL  &kp Z      &kp X      &kp C      &kp V      &kp B          &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH   &kp DEL
         //╰──────────┴──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┴──────────┼──────────┼──────────┴──────────┴──────────╯
         //           │  GUI     │  ALT     │  SPACE   │  LAYER2  │  ENTER   │   │  BKSP    │  LAYER3  │  ESC     │ PRNT SCN │  ENTER   │
-                       &kp LGUI   &kp LALT   &kp SPACE  &mo 2      &kp RET        &kp BSPC   &mo3       &kp ESC    &kp PSCRN  &kp RET
+                       &kp LGUI   &kp LALT   &kp SPACE  &mo 2      &kp RET        &kp BSPC   &mo 3      &kp ESC    &kp PSCRN  &kp RET
         //           ╰──────────┴──────────┴──────────┴──────────┴──────────╯   ╰──────────┴──────────┴──────────┴──────────┴──────────╯
             >;
         };

@@ -1,5 +1,5 @@
 #include "kit46.dtsi"
 
 &matrix_wiring_transform {
-    col-offset = <2>;
+    col-offset = <6>;
 };
