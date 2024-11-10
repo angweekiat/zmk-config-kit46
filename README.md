@@ -28,22 +28,23 @@ You are taking a break, when you receive a work notification and need to transit
 
 #### Power Switches
 You feel cool turning on the keyboard in this manner.
+
 ![Power on](resources/power_on.webp)
 
 #### Casing
 Comes with protective casing for smooth travels.
+
 ![Casing](resources/casing.webp)
 
 #### Batteries
-`Kit46` comes with a chonky 1000mAH 102050 Lithium battery on each siderrf t
-zbe, enough to last for 3 months without charging for the left central keyboard, and 11 months for the right peripheral keyboard, according to [ZMK Power Profiler](https://zmk.dev/power-profiler).
+`Kit46` comes with a chonky 1000mAH 102050 Lithium battery on each side, enough to last for 3 months without charging for the left central keyboard, and 11 months for the right peripheral keyboard, according to [ZMK Power Profiler](https://zmk.dev/power-profiler).
 
 Please bear in mind that the batteries were chosen solely based on the duration specified above, and upon delivery, their sizes were quite surprising to the keyboard creator.
 
 ### BLE (Bluetooth Low Energy) Support
 This comes for free as part of using [ZMK firmware](https://github.com/zmkfirmware/zmk), not trying to claim credit for it, it's awesome that it works out of the box for me. I toggle the keyboard between 2 BLE profiles, one for my phone, one for work.
 
-## Details
+## Build Details
 
 ![Both boards exposed](resources/board_both.jpg)
 The keyboard switches are snap fitted into the board, and soldered directly to, each switch paired with a diode. While the microcontroller is housed together with the switches on the board, the batteries are stored separately in the base, due to the weight and size. In the image above, one can see several areas that are duct taped, my amateur skills are showing through.
@@ -103,6 +104,7 @@ Can't nicely use the built keyboard without these.
 ### Total cost: S$252.22
 
 One of my motivations going into this project is to keep costs low, I didn't expect to spend such a huge sum by the end.
+
 ![Alt Text](https://media1.tenor.com/m/EXryHc8fH_IAAAAd/sad-wasting-money.gif)
 
 
@@ -129,7 +131,7 @@ One of my motivations going into this project is to keep costs low, I didn't exp
 
 ## Typing Test
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HZgpkAom4NY?si=R_xkW9uB_RGsZHU5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Kit46 typing test](resources/youtube_ss.png)](https://www.youtube.com/watch?v=HZgpkAom4NY "Kit46 typing test")
 
 ## Thoughts and Future work
 
